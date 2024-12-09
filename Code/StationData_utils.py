@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from ipywidgets import interact
 import matplotlib
 
-matplotlib.use('TkAgg')
+
 
 
 def Load_Csv(file_path):
